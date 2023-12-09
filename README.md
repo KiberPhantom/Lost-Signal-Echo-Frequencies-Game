@@ -1,1 +1,1 @@
-# Lost-Signal-Echo-Frequencies-Game
+# Lost Signal Echo Frequencies Game
