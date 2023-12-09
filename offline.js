@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1702126028,
+	"version": 1702128009,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -106,6 +106,7 @@
 		"images/sprite21-sheet0.png",
 		"images/tips_1-sheet0.png",
 		"images/tip2-sheet0.png",
+		"images/steam_achiv-sheet0.png",
 		"media/specialrewardshort2.m4a",
 		"media/specialrewardshort2.ogg",
 		"media/energetingcirclingupload.m4a",
@@ -157,6 +158,7 @@
 		"media/hardrocketlaunch.ogg",
 		"media/rocket-firing_f1wnst4_.ogg",
 		"media/paper-flap-sheet-shake-movement_f1wgs2vo.ogg",
+		"media/steam.ogg",
 		"media/haroldparanormalinstigatortheme.m4a",
 		"media/haroldparanormalinstigatortheme.ogg",
 		"media/main_music.m4a",
